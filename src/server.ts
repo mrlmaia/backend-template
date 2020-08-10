@@ -1,11 +1,11 @@
-import express from 'express'
+import express from 'express';
 
-const app = express()
+const app = express();
 
-app.get('/', (request, response) => response.json({ hello: "world!" }))
+app.get('/', (request, response) => response.json({ hello: 'world!' }));
 
-const port = 3333
+const port = 3333;
 
 app.listen(port, () => {
-  console.log(`App listening on port ${port}`)
-})
+  console.log(`App listening on port ${port}`);
+});
