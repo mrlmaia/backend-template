@@ -2,7 +2,19 @@
   "name": "backend-template",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Murilo Maia <murilomaia.bb@gmail.com>",
+  "author": {
+    "email": "murilomaia.bb@gmail.com",
+    "name": "Murilo Maia",
+    "url": "https://github.com/mrlmaia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrlmaia/backend-template.git"
+  },
+  "create_md": {
+    "github_username": "mrlmaia",
+    "gitgub_repo": "backend-template"
+  },
   "license": "MIT",
   "scripts": {
     "build": "tsc",
