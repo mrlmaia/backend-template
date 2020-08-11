@@ -19,7 +19,7 @@ Contributions, issues and feature requests are welcome!
 - 🐛 Find and report issues
 - 📥 Submit PRs to help solve issues or add features
 
-Feel free to check [issues page](https://github.com///issues). You can also take a look at the contributing guide.
+Feel free to check [issues page](https://github.com/mrlmaia/backend-template/issues). You can also take a look at the contributing guide.
 
 ## Author
 
@@ -36,4 +36,4 @@ Feel free to check [issues page](https://github.com///issues). You can also take
 ## 📝 License
 
 Copyright © 2020 Murilo Maia
-This project is [MIT](license) licensed.
+This project is [MIT](https://github.com/mrlmaia/backend-template/blob/master/license.md) licensed.
